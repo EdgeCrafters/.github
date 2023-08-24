@@ -1,26 +1,21 @@
-# EdgeCrafters: Edged Judger Platform (EJP)
+EdgeCrafters: Edged Judger Platform (EJP) 🚀
+EJP is an open-source platform designed to lower the barriers of providing coding education. By leveraging edge computing and user's local resources, educators can manage and grade students' coding assignments without the need for high-cost server setups or third-party platform subscriptions.
 
-## Introduction
-Welcome to the home of EdgeCrafters!
-We are the creators of the Edged Judger Platform (EJP). Our primary mission is to lower the barriers to coding education.
-EJP is an edge computing-based assignment grading (Judger) service, allowing educators to manage students' coding assignments without the need for high-cost server setup or external platform subscription. 
+Highlights 🌟:
+Cost-Effective: No more expensive server setups or platform subscriptions.
+Leverage Local Resources: Uses the distributed computing resources that users already possess.
+Open-Source and Free: Anyone can set up, contribute, and benefit.
+Components 🛠:
+EJP-T (For Teachers): Craft assignments and manage student grades.
+EJP-S (For Students): Submit answers and get instant feedback.
+EJP-BE (Server Program): Set up the server with ease.
+OS Support: Currently Linux only. Windows & Mac support is on the horizon.
 
-## Background
-As the significance of software education has become prominent, the essence of hands-on 'practice' in software teaching is undeniable.
-Previous platforms have their own online judger services, enhancing the quality and accessibility of coding education.
-However, these services still possess limitations.
+Getting Started 📚:
+For detailed instructions on each component, dive into the respective repositories.
 
-Traditional online judger services often rely on web-based structures, asking users to code and submit through their web IDEs.
-This isn't always ideal, especially for complex assignments that involve multiple source files and build-link processes.
-Such tasks are often conducted on dedicated servers provided by institutions.
-Both these dedicated servers and online judgers face challenges, especially when there's a surge in submissions, leading to server overloads.
+Contributing 🤝:
+Feel free to fork, improve, make pull requests or fill issues. We're open to suggestions and improvements!
 
-## Our Solution: EJP
-EJP is designed to tackle those above challenges. By executing most of the tasks in the user's local environment, EJP allows educators to distribute and manage coding assignments with minimal server setup costs.
-It's an open-source project aimed at enabling anyone to set up their learning groups, create assignments, and facilitate solutions.
-Our goal is to ensure that even small-scale educational entities or those with limited budgets can effectively manage numerous coding assignments without the hefty price tag.
-
-## Contribute
-Feel free to dive into our codebase, raise issues, submit PRs, or even set up EJP for your own educational community!
-
----
+License 📄:
+EJP is MIT licensed.
