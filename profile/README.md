@@ -2,7 +2,6 @@
 
 EJP is an open-source platform designed to lower the barriers of providing coding education. By leveraging edge computing and user's local resources, educators can manage and grade students' coding assignments without the need for high-cost server setups or third-party platform subscriptions.
 
-![EJP Logo](./EdgeCraftersLogo.png)
 
 ## Highlights 🌟:
 - **Cost-Effective**: No more expensive server setups or platform subscriptions.
